@@ -30,10 +30,10 @@ export default function Login({ onJoin }) {
         <div className="login-header">
           <div className="login-logo">
             <span className="logo-bracket">[</span>
-            <span className="logo-text">NEXUS</span>
+            <span className="logo-text">REAL-TIME CHAT</span>
             <span className="logo-bracket">]</span>
           </div>
-          <p className="login-tagline">Real-time encrypted channels</p>
+          <p className="login-tagline">Connect and chat instantly</p>
           <div className="login-status-row">
             <span className="status-dot" />
             <span className="status-label">SYSTEM ONLINE</span>
