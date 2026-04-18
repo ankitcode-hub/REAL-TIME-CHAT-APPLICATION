@@ -23,3 +23,4 @@ Project Structure: The project is cleanly separated into two independent folders
 Real-World Application: This project closely mirrors the architecture of production-grade chat applications like Slack, Discord, and Microsoft Teams. The skills demonstrated include full-stack JavaScript development, real-time WebSocket communication, React hooks and state management, RESTful API design, multi-room chat architecture, responsive UI design, and complete Git and GitHub version control workflow. Nexus Chat is a strong demonstration of modern web development skills and serves as a solid foundation that can be extended with features like database persistence, user authentication, file sharing, and end-to-end encryption.
 
 **OUTPUT: 
+<img width="1908" height="905" alt="Image" src="https://github.com/user-attachments/assets/bc893be6-20eb-4009-aafa-f9186d3b0033" />
